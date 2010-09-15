@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="tccv2">
+</Property><Property Name="Solution File" Value="Z:\chupacabras On My Mac\Projects\tccv2\tccv2.sln">
+</Property><Property Name="Date" Value="segunda-feira, 30 de agosto de 2010">
+</Property><Property Name="Time" Value="23:45">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="tccv2.sln" Description="File successfully backed up as Z:\chupacabras On My Mac\Projects\tccv2\Backup\tccv2.sln">
+</Event><Event ErrorLevel="0" Project="tccv2" Source="tccv2.csproj" Description="Project file successfully backed up as Z:\chupacabras On My Mac\Projects\tccv2\Backup\tccv2.csproj">
+</Event><Event ErrorLevel="0" Project="tccv2" Source="Assets\Scripts\PlayerController.cs" Description="File successfully backed up as Z:\chupacabras On My Mac\Projects\tccv2\Backup\Assets\Scripts\PlayerController.cs">
+</Event><Event ErrorLevel="0" Project="tccv2" Source="Assets\Scripts\LoadDynamicTexture.js" Description="File successfully backed up as Z:\chupacabras On My Mac\Projects\tccv2\Backup\Assets\Scripts\LoadDynamicTexture.js">
+</Event><Event ErrorLevel="0" Project="tccv2" Source="Assets\Scripts\SmoothFollow.js" Description="File successfully backed up as Z:\chupacabras On My Mac\Projects\tccv2\Backup\Assets\Scripts\SmoothFollow.js">
+</Event><Event ErrorLevel="0" Project="tccv2" Source="Assets\Scripts\SuperMarioAnimation.js" Description="File successfully backed up as Z:\chupacabras On My Mac\Projects\tccv2\Backup\Assets\Scripts\SuperMarioAnimation.js">
+</Event><Event ErrorLevel="0" Project="tccv2" Source="Assets\Scripts\SuperMarioController.js" Description="File successfully backed up as Z:\chupacabras On My Mac\Projects\tccv2\Backup\Assets\Scripts\SuperMarioController.js">
+</Event><Event ErrorLevel="0" Project="tccv2" Source="tccv2.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="tccv2" Source="tccv2.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="tccv2.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="tccv2.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="tccv2" Source="tccv2.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
