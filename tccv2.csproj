@@ -42,13 +42,9 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\NewBehaviourScript.cs" />
      <Compile Include="Assets\Scripts\PlayerAnimation.cs" />
      <Compile Include="Assets\Scripts\PlayerController.cs" />
-     <None Include="Assets\Scripts\LoadDynamicTexture.js" />
-     <None Include="Assets\Scripts\SmoothFollow.js" />
-     <None Include="Assets\Scripts\SuperMarioAnimation.js" />
-     <None Include="Assets\Scripts\SuperMarioController.js" />
+     <Compile Include="Assets\Scripts\SmoothFollow.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
